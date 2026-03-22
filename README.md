@@ -111,7 +111,7 @@ Flujo recomendado: la **vista** solo lee y muestra datos; el **controlador** usa
 
 <p align="center">
   <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=java,mysql,git&perline=6" alt="Java, MySQL, Git" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,git&perline=6" alt="Java, MySQL" />
   </a>
 </p>
 
@@ -119,8 +119,6 @@ Flujo recomendado: la **vista** solo lee y muestra datos; el **controlador** usa
 - **MySQL** con la base y tabla usadas en el curso (por ejemplo `itla_db` / `producto`, según tu script SQL).
 - **MySQL Connector/J** configurado como librería en el proyecto (NetBeans: *Libraries*).
 - IDE recomendado: **Apache NetBeans** (proyecto Ant con `build.xml`).
-
-Iconos: [skill-icons](https://github.com/tandpfun/skill-icons) · [skillicons.dev](https://skillicons.dev) (`java`, `mysql`, `git`). *En el catálogo actual no figura un icono para NetBeans.*
 
 ---
 
