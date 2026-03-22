@@ -1,0 +1,39 @@
+
+# --- NetBeans (Ant) — salida de compilación y ajustes locales ---
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+
+# --- Java ---
+*.class
+hs_err_pid*
+replay_pid*
+
+# --- Logs y temporales ---
+*.log
+*.tmp
+*.bak
+*~
+
+# --- Windows ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- IDEs / editores ---
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
