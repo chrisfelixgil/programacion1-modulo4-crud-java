@@ -111,7 +111,7 @@ Flujo recomendado: la **vista** solo lee y muestra datos; el **controlador** usa
 
 <p align="center">
   <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=java,mysql,git&perline=6" alt="Java, MySQL" />
+    <img src="https://skillicons.dev/icons?i=java,mysql&perline=6" alt="Java, MySQL" />
   </a>
 </p>
 
